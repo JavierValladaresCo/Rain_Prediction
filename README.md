@@ -26,7 +26,7 @@
 
 ## Conclusions
 
-![Confusion Matrix](/Images/confusion-matrix)
+![Confusion Matrix](/Images/confusion-matrix.png)
 
 
 ## Challenges
