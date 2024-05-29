@@ -26,6 +26,9 @@
 
 ## Conclusions
 
+![Confusion Matrix](/Images/confusion-matrix)
+
+
 ## Challenges
 
 ## What else i might have done?
