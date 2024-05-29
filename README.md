@@ -1,5 +1,11 @@
 # Rain in Australia
 
+
+The purpose of this project was to predict the days that precede a rainy day based on weather parameters. The key steps of this project were data transformation and balancing, as these two steps had a significant impact on the model's predictions. Finally, the model selected for this project was logistic regression, chosen to set a threshold probability and potentially improve the prediction results.
+
+Rain in Australia was access in 27/05/2024 from https://www.kaggle.com/datasets/jsphyg/weather-dataset-rattle-package
+
+
 ![Rain Prediction](/Images/dataset-cover.jpg)
 
 ## Methods Used
