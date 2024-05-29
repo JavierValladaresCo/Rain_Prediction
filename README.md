@@ -1,6 +1,6 @@
 # Rain in Australia
 
-![Rain Prediction](/Images/dataset-cover.png)
+![Rain Prediction](/Images/dataset-cover.jpg)
 
 ## Methods Used
 
